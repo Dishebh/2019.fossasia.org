@@ -301,6 +301,7 @@ span.lead {
   letter-spacing: 1px;
   display: inline-block;
   margin-right: -1px;
+  line-height: 45px !important;
 }
 strong {
   font-weight: 600;
