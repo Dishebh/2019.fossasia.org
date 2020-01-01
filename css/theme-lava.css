@@ -24,6 +24,9 @@
 /*!
 // 1. Useful Mixins
 // --------------------------------------------------*/
+.post {
+  margin-top: 15px !important;
+}
 .vertical-align {
   position: relative;
   top: 50%;
