@@ -401,12 +401,13 @@ p a,
   background: #c82600;
 }
 .btn-hollow {
-  background: none;
-  border: 2px solid #e12b00;
-  color: #e12b00;
+  background: none !important;
+  border: 2px solid #e12b00 !important;
+  color: #e12b00 !important;
 }
 .btn-hollow:hover {
-  background: #e12b00;
+  background: #e12b00 !important;
+  color: #fff !important;
 }
 .btn-white {
   background: #fff;
